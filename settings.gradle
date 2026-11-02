@@ -1,0 +1,24 @@
+pluginManagement {
+	repositories {
+		// Fabric 官方仓库：Loom 插件本体只能从这里拿，无法被国内镜像替代
+		maven {
+			name = 'Fabric'
+			url = 'https://maven.fabricmc.net/'
+		}
+		// 国内镜像：替代 plugins.gradle.org / Maven Central，大幅提速
+		maven {
+			name = 'Aliyun Gradle Plugin'
+			url = 'https://maven.aliyun.com/repository/gradle-plugin'
+		}
+		maven {
+			name = 'Aliyun Public'
+			url = 'https://maven.aliyun.com/repository/public'
+		}
+		// 官方源放最后做兜底
+		mavenCentral()
+		gradlePluginPortal()
+	}
+}
+
+// Should match your modid
+rootProject.name = 'mage-and-knight'
