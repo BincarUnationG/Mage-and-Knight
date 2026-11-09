@@ -1,0 +1,18 @@
+{
+	"mk.class.none": "None",
+	"mk.class.mage": "Mage",
+	"mk.class.knight": "Knight",
+	"mk.realm.mortal": "Mortal",
+	"mk.realm.legend": "Legend",
+	"mk.realm.myth": "Myth",
+	"mk.cmd.tier.only_player": "This command can only be used by a player.",
+	"mk.cmd.tier.noclass": "You have not yet stepped onto the ladder of tiers — you are an ordinary person.",
+	"mk.cmd.tier.line": "Class %s │ Tier %s │ %s │ Exp %s",
+	"mk.cmd.tier.energy": "Energy %s / %s │ Inspiration %s │ Slot %s / %s",
+	"mk.cmd.tier.set": "Tier set to %s.",
+	"mk.cmd.tier.class": "Class set to %s.",
+	"mk.cmd.tier.exp": "Added %s exp (total %s).",
+	"mk.cmd.tier.energy_set": "Energy set to %s.",
+	"mk.cmd.tier.sync": "Profile synced to client.",
+	"mk.cmd.tier.no_permission": "This subcommand requires permission level %s (OP). In singleplayer, enable cheats when creating the world."
+}

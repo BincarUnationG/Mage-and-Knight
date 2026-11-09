@@ -1,0 +1,18 @@
+{
+	"mk.class.none": "无职业",
+	"mk.class.mage": "魔法师",
+	"mk.class.knight": "骑士",
+	"mk.realm.mortal": "凡",
+	"mk.realm.legend": "传说",
+	"mk.realm.myth": "神话",
+	"mk.cmd.tier.only_player": "这个指令只能由玩家使用。",
+	"mk.cmd.tier.noclass": "你尚未踏入位阶——目前只是个普通人。",
+	"mk.cmd.tier.line": "职业 %s │ 位阶 %s │ %s │ 经验 %s",
+	"mk.cmd.tier.energy": "能量 %s / %s │ 灵感 %s │ 槽位 %s / %s",
+	"mk.cmd.tier.set": "位阶已设为 %s 阶。",
+	"mk.cmd.tier.class": "职业已设为 %s。",
+	"mk.cmd.tier.exp": "获得 %s 点经验（累计 %s）。",
+	"mk.cmd.tier.energy_set": "能量已设为 %s。",
+	"mk.cmd.tier.sync": "已把数据同步到客户端。",
+	"mk.cmd.tier.no_permission": "这个子命令需要 %s 级权限（OP）。单人游戏请在创建世界时勾选「允许作弊」，或在「对局域网开放」里允许作弊。"
+}
