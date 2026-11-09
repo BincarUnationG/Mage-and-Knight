@@ -8,7 +8,7 @@
 | 加载器 | Fabric Loader 0.20.1+ / Fabric API |
 | 模组版本 | 1.0.0（**开发中，尚未发布**） |
 | 模组 ID | `mage-and-knight` |
-| 许可证 | CC0-1.0 |
+| 许可证 | MIT（见 [LICENSE](LICENSE)） |
 
 ---
 
@@ -112,4 +112,6 @@ Energy HUD registered: OK
 
 ## License
 
-CC0-1.0。
+MIT，全文见 [LICENSE](LICENSE)。代码与贴图（`assets/mage-and-knight/textures/gui/` 下的全部 PNG）适用同一个许可证。
+
+简单说：可以自由使用、修改、再分发甚至商用，但**必须保留版权声明和许可证副本**。
